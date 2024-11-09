@@ -1,0 +1,5 @@
+Go,Start
+Baltic Avenue,Property,60,4,20,30
+Boardwalk,Property,400,50,200,100
+Community Chest,Card
+Income Tax,Tax
