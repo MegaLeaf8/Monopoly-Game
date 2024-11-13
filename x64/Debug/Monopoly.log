@@ -1,2 +1,3 @@
 ﻿  Monopoly.cpp
+C:\Users\nr609\source\repos\Monopoly\Monopoly\Monopoly.cpp(266,1): warning C4715: 'Player::rollDice': not all control paths return a value
   Monopoly.vcxproj -> C:\Users\nr609\source\repos\Monopoly\x64\Debug\Monopoly.exe

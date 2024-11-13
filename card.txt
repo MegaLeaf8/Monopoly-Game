@@ -1,0 +1,4 @@
+advance,0
+pay,100
+advance,10
+collect,50
